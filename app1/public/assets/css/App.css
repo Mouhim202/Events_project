@@ -1,0 +1,11 @@
+.titre
+{
+  background-color: red;
+  color: yellow;
+}
+
+.corps
+{
+  display: flex;
+  justify-content: space-around;
+}
